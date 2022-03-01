@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:orderInCategory="100"
+        android:title="company" />
+    <item
+        android:id="@+id/credits"
+        android:orderInCategory="300"
+        android:title="credits" />
+    <item
+        android:orderInCategory="400"
+        android:title="Go Back" />
+
+    <item
+        android:id="@+id/worker"
+        android:orderInCategory="200"
+        android:title="worker" />
+
+
+    <item android:title="Home screen"
+        android:orderInCategory="500"
+        />
+
+</menu>
